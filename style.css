@@ -2,19 +2,22 @@ body {
   font-family: 'Roboto', sans-serif;
 }
 
+.navbar-dark {
+  padding: 0px;
+}
+
 #title {
-  padding-left: 35px;
-  padding-right: 30px;
+  padding-top: 1rem;
   background-color: #0f0a3c;
 }
 
 .navbar {
   background-color: #0f0a3c;
-  padding: 3rem;
 }
 
 .navbar-light .navbar-brand {
   color: #ffffff;
+
 }
 
 .nav-link {
