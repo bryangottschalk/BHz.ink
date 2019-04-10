@@ -46,6 +46,10 @@ body {
   padding: 1% 7% 3%;
 }
 
+.container-images {
+  padding: 5% 7% 0% 7%;
+}
+
 #portfolio-1 {
   padding-top: 0px;
   background-color: #cdffeb;
@@ -53,6 +57,7 @@ body {
 
 #portfolio-2 {
   background-color: #cdffeb;
+  padding-bottom: 5%;
 }
 
 footer {
@@ -64,6 +69,13 @@ footer {
 
 .footer-text {
   color: #cdffeb;
+}
+
+.img-thumbnail {
+  border-radius: 25px;
+  /* border: 5px solid;
+  border-color: #0f0a3c; */
+  padding: 0px;
 }
 
 /* Hover Effect */
@@ -82,6 +94,7 @@ footer {
     text-align: center;
     font-weight: 300;
     color: #0f0a3c;
+    padding-top: 15px;
   }
 
   .info {
@@ -110,6 +123,7 @@ footer {
   }
 
   .hovereffect .overlay {
+    border-radius: 25px;
     width: 100%;
     height: 100%;
     position: absolute;
