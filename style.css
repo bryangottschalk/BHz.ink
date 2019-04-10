@@ -52,11 +52,11 @@ body {
 
 #portfolio-1 {
   padding-top: 0px;
-  background-color: #cdffeb;
+  /* background-color: #cdffeb; */
 }
 
 #portfolio-2 {
-  background-color: #cdffeb;
+  /* background-color: #cdffeb; */
   padding-bottom: 5%;
 }
 
@@ -197,6 +197,15 @@ footer {
   }
 
 }
+
+
+/* About Page */
+
+.about-paragraph {
+  padding: 7%;
+}
+
+/* Contact Page */
 
 /* 
 .hovereffect a.info:hover {
